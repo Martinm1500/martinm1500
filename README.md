@@ -53,8 +53,6 @@ A web application designed to enhance the food shopping experience.
 
 - Enhancing my skills in **React** and **JavaScript**
 - Improving knowledge of **Test-Driven Development (TDD)** and **Integration Testing**
-- Contributing to open-source projects related to **CI/CD** and **Docker**
-- Preparing for technical interviews
 
 ---
 

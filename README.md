@@ -41,13 +41,15 @@ Decomposed the previous monolithic project into three independent microservices:
 ---
 
 ## 🤝 Collaborative Projects
+
 ### [🌍 Foodly Finds](https://github.com/No-Country/s14-16-n-java.git)
-A web application designed to enhance the food shopping experience.
+A web application designed to enhance the food shopping experience. Users can browse available foods, add multiple portions and items to a shopping cart, view detailed information about ingredients and stores, and receive notifications about discounts and order updates. Features include multiple payment options and compensation in case of delivery issues.
 
 **Promotional Video:**
 
-[![Foodly Finds Promotional Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Foodly Finds Promotional Video](https://img.youtube.com/vi/ZREkxyqYG2M/hqdefault.jpg)](https://www.youtube.com/watch?v=ZREkxyqYG2M)
 
+---
 
 ## 🌱 What I'm Currently Working On
 
@@ -58,5 +60,5 @@ A web application designed to enhance the food shopping experience.
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [linkedin.com/in/martin-munoz-](www.linkedin.com/in/martin-munoz-)
+- **LinkedIn:** [linkedin.com/in/martin-munoz-](https://www.linkedin.com/in/martin-munoz-)
 - **Email:** martinmuozayala@gmail.com

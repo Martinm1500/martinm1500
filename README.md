@@ -29,7 +29,7 @@
 
 ## 🚀 Featured Projects
 
-### [🦖 Dinosaur API](https://github.com/dinodev/dinosaur-api)
+### [🦖 Dinosaur API](https://github.com/Martinm1500/dinosaurs-api.git)
 A REST API designed to be consumed by a web application that simulates a timeline of dinosaurs. This API provides endpoints to manage and retrieve data about various dinosaur species, which is used to create an interactive timeline on the frontend.
 
 ### [🔭 Rover API - Test-Driven Development (TDD) and Monolithic Approach](https://github.com/Martinm1500/Mars-Rover-API.git)

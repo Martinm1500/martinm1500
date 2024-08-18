@@ -1,6 +1,6 @@
-# Hello, I'm Martin Muñoz 👋
+# About Me 👋
 
-### 🌟 Backend Java Developer | Passionate about Technology and Science 🦖
+### 🌟 Martin Muñoz | Backend Java Developer | Passionate about Technology and Science 🦖
 
 ---
 

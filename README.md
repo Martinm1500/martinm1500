@@ -7,7 +7,7 @@
 ## 🛠️ Technologies and Tools
 
 - **Backend:** Java, Spring Boot, Spring Data, Spring Security
-- **Testing:** JUnit, Mockito, Unit Testing, Test-Driven Development (TDD), Integration Testing
+- **Testing:** JUnit, Mockito, MockMvc, Unit Testing, Test-Driven Development (TDD), Integration Testing
 - **Frontend:** Learning React and JavaScript, HTML, CSS
 - **Databases:** MySQL, H2
 - **Others:** Docker, GitHub Actions, CI/CD, OOP, Design Patterns, Jira, Trello

@@ -7,10 +7,10 @@
 ## 🛠️ Technologies and Tools
 
 - **Backend:** Java, Spring Boot, Spring Data, Spring Security
-- **Testing:** JUnit, Mockito, MockMvc, Unit Testing, Test-Driven Development (TDD), Integration Testing
-- **Frontend:** Learning React and JavaScript, HTML, CSS
+- **Testing:** JUnit, Mockito, MockMvc, Testcontainers, Test-Driven Development (TDD), Integration Testing
+- **Frontend:** Angular
 - **Databases:** MySQL, H2
-- **Others:** Docker, GitHub Actions, CI/CD, OOP, Design Patterns, Jira, Trello
+- **Others:** Docker, GitHub Actions, OOP, Design Patterns, SOLID, Jira
 - **API:** REST APIs
 
 ---
@@ -53,8 +53,8 @@ A web application designed to enhance the food shopping experience. Users can br
 
 ## 🌱 What I'm Currently Working On
 
-- Enhancing my skills in **React** and **JavaScript**
-- Improving knowledge of **Test-Driven Development (TDD)** and **Integration Testing**
+- Enhancing my skills in **writing quality code**
+- Improving knowledge of **Spring Security** and **Angular**
 
 ---
 

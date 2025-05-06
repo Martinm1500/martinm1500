@@ -62,4 +62,3 @@ A web application designed to enhance the food shopping experience. Users can br
 
 - **LinkedIn:** [linkedin.com/in/martin-munoz-](https://www.linkedin.com/in/martin-munoz-)
 - **Email:** martinmuozayala@gmail.com
-- 📫 Email: `john [dot] doe [at] email [dot] com`

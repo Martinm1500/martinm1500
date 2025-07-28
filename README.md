@@ -57,8 +57,3 @@ A web application designed to enhance the food shopping experience. Users can br
 - Improving knowledge of **Spring Security** and **Angular**
 
 ---
-
-## 📫 How to Reach Me
-
-- **LinkedIn:** [linkedin.com/in/martin-munoz-](https://www.linkedin.com/in/martin-munoz-)
-- **Email:** martinmuozayala@gmail.com

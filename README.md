@@ -6,10 +6,10 @@
 
 ## 🛠️ Technologies and Tools
 
-- **Backend:** Java, Spring Boot, Spring Data, Spring Security
+- **Backend:** Java, Spring Boot, Spring Data, Spring Security, Python, Go
 - **Testing:** JUnit, Mockito, MockMvc, Testcontainers, Test-Driven Development (TDD), Integration Testing
-- **Frontend:** Angular
-- **Databases:** MySQL, H2
+- **Frontend:** Angular, React, Typescript
+- **Databases:** MySQL, H2, PostgreSQL
 - **Others:** Docker, GitHub Actions, OOP, Design Patterns, SOLID, Jira
 - **API:** REST APIs
 
@@ -28,9 +28,6 @@
 - **Agile Principles**
 
 ## 🚀 Featured Projects
-
-### [🦖 Dinosaur API](https://github.com/Martinm1500/dinosaurs-api.git)
-A REST API designed to be consumed by a web application that simulates a timeline of dinosaurs. This API provides endpoints to manage and retrieve data about various dinosaur species, which is used to create an interactive timeline on the frontend.
 
 ### [🔭 Rover API - Test-Driven Development (TDD) and Monolithic Approach](https://github.com/Martinm1500/Mars-Rover-API.git)
 The Rover API enables interaction with rovers and maps, providing basic operations through specific interfaces. Implemented using TDD methodology with JUnit and Mockito.

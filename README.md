@@ -70,55 +70,9 @@
 
 <div align="center">
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<div align="center"><h3>🏢 Agile Workspace Platform</h3><p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"></p><p>End-to-end agile-oriented platform that brings team communication, idea development, and task management together in a single workspace. Features communication channels, collaborative note board, and Kanban-style task management.</p><p><b>🔗 CÓDIGO</b></p></div>|<div align="center"><h3>🏠 Real Estate Hub</h3><p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node-339933?style=flat&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"></p><p>Real estate website with JWT authentication and Nodemailer for property inquiries.</p><p><b>🔗 CÓDIGO</b></p></div>|<div align="center"><h3>🤖 Rover API - TDD</h3><p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/TDD-FF6C37?style=flat&logo=testinglibrary&logoColor=white"> <img src="https://img.shields.io/badge/MockMvc-6DB33F?style=flat&logo=spring&logoColor=white"></p><p>Rover interaction with maps implemented using Test-Driven Development methodology.</p><p><b>🔗 CÓDIGO</b></p></div>|
-|<div align="center"><h3>🌍 Rover Microservices</h3><p><img src="https://img.shields.io/badge/Microservices-2496ED?style=flat&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/REST-FF6C37?style=flat&logo=api&logoColor=white"> <img src="https://img.shields.io/badge/SOAP-6DB33F?style=flat&logo=soap&logoColor=white"> <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat&logo=spring&logoColor=white"></p><p>Three independent microservices for planets, obstacles, and rover control using reactive programming.</p><p><b>🔗 CÓDIGO</b></p></div>|<div align="center"><h3>🏢 SpaceRental Platform</h3><p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node-339933?style=flat&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Multer-FF6C37?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"></p><p>Platform for renting spaces with authentication and file uploads using Multer.</p><p><b>🔗 CÓDIGO</b></p></div>|<div align="center"><h3>📄 Java Invoice System</h3><p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/MVC-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Singleton-FF6C37?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=api&logoColor=white"></p><p>Enterprise system for managing products, clients, and AFIP electronic invoices.</p><p><b>🔗 CÓDIGO</b></p></div>|
-
-</div>
-
----
-
-## 💪 Soft Skills
-
-<div align="center">
-
-![Adaptability](https://img.shields.io/badge/Adaptability-00C7B7?style=flat-square&logo=adobe&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF6B6B?style=flat-square&logo=leetcode&logoColor=white)
-![Communication](https://img.shields.io/badge/Communication-8B89CC?style=flat-square&logo=microsoftteams&logoColor=white)
-![Proactivity](https://img.shields.io/badge/Proactivity-FFA500?style=flat-square&logo=rocket&logoColor=white)
-![Autonomy](https://img.shields.io/badge/Autonomy-2C5BB4?style=flat-square&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 🤝 Collaborative Projects
-
-<div align="center">
-  
-### 🌍 Foodly Finds
-
-<table>
-  <tr>
-    <td width="60%">
-      <p>A web application designed to enhance the food shopping experience:</p>
-      <ul align="left">
-        <li>🛒 Browse available foods and manage shopping cart</li>
-        <li>📋 Detailed information about ingredients and stores</li>
-        <li>🔔 Notifications about discounts and order updates</li>
-        <li>💳 Multiple payment options</li>
-        <li>⚖️ Compensation system for delivery issues</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <a href="https://www.youtube.com/watch?v=ZREkxyqYG2M" target="_blank">
-        <img src="https://img.youtube.com/vi/ZREkxyqYG2M/0.jpg" alt="Foodly Finds Promotional Video" width="100%" style="border-radius: 8px;">
-        <p align="center">▶️ Watch Promotional Video</p>
-      </a>
-    </td>
-  </tr>
-</table>
+| | |
+|:-------------------------:|:-------------------------:|
+|<div align="center"><h3>🏢 Agile Workspace Platform</h3><p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"></p><p>End-to-end agile-oriented platform that brings team communication, idea development, and task management together in a single workspace. Features communication channels, collaborative note board, and Kanban-style task management.</p><p><b>🔗 CÓDIGO</b></p></div>|<div align="center"><h3>🤖 Rover API - TDD</h3><p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/TDD-FF6C37?style=flat&logo=testinglibrary&logoColor=white"> <img src="https://img.shields.io/badge/MockMvc-6DB33F?style=flat&logo=spring&logoColor=white"></p><p>Rover interaction with maps implemented using Test-Driven Development methodology.</p><p><b>🔗 CÓDIGO</b></p></div>|
 
 </div>
 

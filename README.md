@@ -1,4 +1,5 @@
-<h1 align="center">Martin Muñoz | Backend Software Developer</h1>
+
+<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/cdb84eed-3c85-42b9-bb43-55cd7074d56b" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AA9F7&center=true&vCenter=true&width=435&lines=Passionate+about+Technology;Backend+Developer;Continuous+Learner;Problem+Solver" alt="Typing SVG" />

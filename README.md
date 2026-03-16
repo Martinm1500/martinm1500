@@ -72,7 +72,8 @@
 
 | | |
 |:-------------------------:|:-------------------------:|
-|<div align="center"><h3>🏢 Agile Workspace Platform</h3><p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"></p><p>End-to-end agile-oriented platform that brings team communication, idea development, and task management together in a single workspace. Features communication channels, collaborative note board, and Kanban-style task management.</p><p><b>🔗 CÓDIGO</b></p></div>|<div align="center"><h3>🤖 Rover API - TDD</h3><p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/TDD-FF6C37?style=flat&logo=testinglibrary&logoColor=white"> <img src="https://img.shields.io/badge/MockMvc-6DB33F?style=flat&logo=spring&logoColor=white"></p><p>Rover interaction with maps implemented using Test-Driven Development methodology.</p><p><b>🔗 CÓDIGO</b></p></div>|
+|<div align="center"><h3>🏢 Agile Workspace Platform</h3><p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"></p><p>End-to-end agile-oriented platform that brings team communication, idea development, and task management together in a single workspace. Features communication channels, collaborative note board, and Kanban-style task management.</p><p><b>🔗 <a href="https://github.com/Martinm1500/agile-team-platform.git">CÓDIGO</a></b></p></div>|<div align="center"><h3>📚 WordTracker</h3><p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"></p><p>Your intelligent companion for language learning. Transform your reading into active learning by automatically capturing words you encounter, organizing them by frequency, and showing instant translations. Master languages word by word, effortlessly.</p><p><b>🔗 <a href="https://github.com/Martinm1500/word-tracker.git">CÓDIGO</a></b></p></div>|
+|<div align="center"><h3>🤖 Rover API - TDD</h3><p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/TDD-FF6C37?style=flat&logo=testinglibrary&logoColor=white"> <img src="https://img.shields.io/badge/MockMvc-6DB33F?style=flat&logo=spring&logoColor=white"></p><p>Rover interaction with maps implemented using Test-Driven Development methodology.</p><p><b>🔗 CÓDIGO</b></p></div>||
 
 </div>
 
@@ -95,10 +96,10 @@
   
 ### 📫 Let's connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Martinm1500)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
 
-⭐️ From [Martin Muñoz](https://github.com/tuusuario)
+⭐️ From [Martin Muñoz](https://github.com/Martinm1500)
 
 </div>

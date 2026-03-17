@@ -1,4 +1,3 @@
-
 <img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/cdb84eed-3c85-42b9-bb43-55cd7074d56b" />
 
 <p align="center">
@@ -78,12 +77,57 @@
 
 <div align="center">
 
-| | |
-|:-------------------------:|:-------------------------:|
-|<div align="center"><h3>🏢 Agile Workspace Platform</h3><p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"></p><p>End-to-end agile-oriented platform that brings team communication, idea development, and task management together in a single workspace.</p><p><a href="https://github.com/Martinm1500/agile-team-platform.git"><img src="https://img.shields.io/badge/Ver_Código-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código"/></a></p></div>|<div align="center"><h3>📚 WordTracker</h3><p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></p><p>Your intelligent companion for language learning. Transform your reading into active learning by capturing words and showing instant translations.</p><p><a href="https://github.com/Martinm1500/work-tracker.git"><img src="https://img.shields.io/badge/Ver_Código-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código"/></a></p></div>|
-|<div align="center" colspan="2"><h3>🤖 Mars Rover API - TDD</h3><p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/TDD-FF6C37?style=flat&logo=testinglibrary&logoColor=white"></p><p>Rover interaction with maps implemented using Test-Driven Development methodology. Clean architecture with comprehensive unit testing.</p><p><a href="https://github.com/Martinm1500/Mars-Rover-API.git"><img src="https://img.shields.io/badge/Ver_Código-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código"/></a></p></div>||
+<table align="left" width="48%">
+  <tr>
+    <td valign="top" height="200px">
+      <h3>🏢 Agile Workspace Platform</h3>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white" />
+      <p>End-to-end agile-oriented platform that brings team communication and task management together.</p>
+      <a href="https://github.com/Martinm1500/agile-team-platform.git">
+        <img src="https://img.shields.io/badge/Ver_Código-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="right" width="48%">
+  <tr>
+    <td valign="top" height="200px">
+      <h3>📚 WordTracker</h3>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
+      <p>Your intelligent companion for language learning. Transform reading into active learning.</p>
+      <a href="https://github.com/Martinm1500/work-tracker.git">
+        <img src="https://img.shields.io/badge/Ver_Código-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br clear="both" />
+<br />
+
+<table align="left" width="48%">
+  <tr>
+    <td valign="top" height="200px">
+      <h3>🤖 Mars Rover API — TDD</h3>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" />
+      <p>Rover interaction with maps implemented using TDD methodology. Clean architecture and unit testing.</p>
+      <a href="https://github.com/Martinm1500/Mars-Rover-API.git">
+        <img src="https://img.shields.io/badge/Ver_Código-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
+
+<br clear="both" />
 
 ## 🌱 What I'm Currently Working On
 

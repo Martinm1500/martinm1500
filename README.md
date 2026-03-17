@@ -55,7 +55,7 @@
 
 <div align="center">
 
-<table align="left"><tr><td width="400" height="280" valign="top" align="center">
+<table align="left"><tr><td width="405" height="280" valign="top" align="center">
   <br />
   <h3>🏢 Agile Workspace Platform</h3>
   <p>
@@ -70,7 +70,7 @@
   </a>
 </td></tr></table>
 
-<table align="right"><tr><td width="400" height="280" valign="top" align="center">
+<table align="right"><tr><td width="405" height="280" valign="top" align="center">
   <br />
   <h3>📚 WordTracker</h3>
   <p>
@@ -88,7 +88,7 @@
 <br clear="both" />
 <br />
 
-<table align="left"><tr><td width="400" height="280" valign="top" align="center">
+<table align="left"><tr><td width="405" height="280" valign="top" align="center">
   <br />
   <h3>🤖 Mars Rover API — TDD</h3>
   <p>

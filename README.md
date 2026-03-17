@@ -51,79 +51,57 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### Architecture & Patterns
-<p align="left">
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design_Patterns-FF6C37?style=for-the-badge&logo=uml&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOLID-2C5BB4?style=for-the-badge&logo=codefactor&logoColor=white" />
-</p>
-
-### DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### Methodologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white" />
-  <img src="https://img.shields.io/badge/TDD-FF6C37?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-</p>
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<table align="left" width="48%">
-  <tr>
-    <td valign="top" height="200px">
-      <h3>🏢 Agile Workspace Platform</h3>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white" />
-      <p>End-to-end agile-oriented platform that brings team communication and task management together.</p>
-      <a href="https://github.com/Martinm1500/agile-team-platform.git">
-        <img src="https://img.shields.io/badge/Ver_Código-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<table align="left"><tr><td width="486" height="280" valign="top" align="center">
+  <br />
+  <h3>🏢 Agile Workspace Platform</h3>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white" />
+  </p>
+  <p>End-to-end agile-oriented platform that brings team communication, idea development, and task management together in a single workspace.</p>
+  <br />
+  <a href="https://github.com/Martinm1500/agile-team-platform.git">
+    <img src="https://img.shields.io/badge/Ver_Código-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</td></tr></table>
 
-<table align="right" width="48%">
-  <tr>
-    <td valign="top" height="200px">
-      <h3>📚 WordTracker</h3>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
-      <p>Your intelligent companion for language learning. Transform reading into active learning.</p>
-      <a href="https://github.com/Martinm1500/work-tracker.git">
-        <img src="https://img.shields.io/badge/Ver_Código-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<table align="right"><tr><td width="486" height="280" valign="top" align="center">
+  <br />
+  <h3>📚 WordTracker</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
+  </p>
+  <p>Your intelligent companion for language learning. Transform your reading into active learning by capturing words and showing instant translations.</p>
+  <br />
+  <a href="https://github.com/Martinm1500/work-tracker.git">
+    <img src="https://img.shields.io/badge/Ver_Código-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</td></tr></table>
 
 <br clear="both" />
 <br />
 
-<table align="left" width="48%">
-  <tr>
-    <td valign="top" height="200px">
-      <h3>🤖 Mars Rover API — TDD</h3>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" />
-      <p>Rover interaction with maps implemented using TDD methodology. Clean architecture and unit testing.</p>
-      <a href="https://github.com/Martinm1500/Mars-Rover-API.git">
-        <img src="https://img.shields.io/badge/Ver_Código-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<table align="left"><tr><td width="486" height="280" valign="top" align="center">
+  <br />
+  <h3>🤖 Mars Rover API — TDD</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white" />
+  </p>
+  <p>Rover interaction with maps implemented using Test-Driven Development methodology. Clean architecture with comprehensive unit testing.</p>
+  <br />
+  <a href="https://github.com/Martinm1500/Mars-Rover-API.git">
+    <img src="https://img.shields.io/badge/Ver_Código-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</td></tr></table>
 
 </div>
 
@@ -136,7 +114,6 @@
 [![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-2AA9F7?style=for-the-badge&logo=udemy&logoColor=white)](https://github.com/)
 [![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://github.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/)
-[![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/)
 
 </div>
 
@@ -146,7 +123,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Martinm1500)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
 
 ⭐️ From [Martin Muñoz](https://github.com/Martinm1500)
 

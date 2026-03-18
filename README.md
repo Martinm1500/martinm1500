@@ -6,30 +6,28 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-  <table>
+<div align="left">
     <tr>
-      <td>
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100px">
-      </td>
       <td>
         <b>Passionate about programming, with a strong focus on backend development.</b> I am highly motivated and driven by continuous learning and problem-solving, always seeking to improve my skills and enjoy building creative solutions. Currently studying software development and aiming to join a collaborative team where I can continue learning and contribute to real-world projects.
       </td>
     </tr>
-  </table>
 </div>
 
-## 🛠️ Skills
+## 🛠️ Technologies
 
 ### Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
 </p>
+
 
 ### Frontend
 <p align="left">
@@ -51,7 +49,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <div align="center">
 
@@ -77,6 +75,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white" />
   </p>
   <p>Your intelligent companion for language learning. Transform your reading into active learning by capturing words and showing instant translations.</p>
   <br />

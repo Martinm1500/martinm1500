@@ -101,24 +101,4 @@
 </div>
 
 <br clear="both" />
-
-## 🌱 What I'm Currently Working On
-
-<div align="center">
-  
-[![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-2AA9F7?style=for-the-badge&logo=udemy&logoColor=white)](https://github.com/)
-[![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)](https://github.com/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/)
-
-</div>
-
-<div align="center">
-  
-### 📫 Let's connect!
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Martinm1500)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-
-⭐️ From [Martin Muñoz](https://github.com/Martinm1500)
-
 </div>

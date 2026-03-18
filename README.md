@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AA9F7&center=true&vCenter=true&width=435&lines=Passionate+about+Technology;Backend+Developer;Continuous+Learner;Problem+Solver" alt="Typing SVG" />
 </p>
 
-## 👨‍💻 About Me
+## ▪️ About Me
 
 <div align="left">
     <tr>
@@ -14,7 +14,7 @@
     </tr>
 </div>
 
-## 🛠️ Technologies
+## ▪️ Technologies
 
 ### Backend
 <p align="left">
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-## 🚀 Projects
+## ▪️ Projects
 
 <div align="center">
 
